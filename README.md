@@ -1,5 +1,7 @@
 # 🌾 Pakistan Food Price Analysis (2004–2026)
 
+[Open Dashboard](https://pakistan-food-price-analysis.streamlit.app/)
+
 > **20 years of WFP food price data — analysed, visualised, and open-sourced.**  
 > A data science deep dive into Pakistan's food inflation, provincial disparities, and the 2022–2023 economic crisis.
 
